@@ -29,4 +29,4 @@
 <img src="https://github.com/demigodliu/demigodliu/blob/master/lf.jpeg" style="position: absolute; right: 0; bottom: 0" class="lufei" alt="lu fei">
 
 </article>
-<img src="https://github.com/demigodliu/demigodliu/blob/master/wave-blue.gif" alt="wave">
+<img style="width: 100%" src="https://github.com/demigodliu/demigodliu/blob/master/1.png" alt="wave">
