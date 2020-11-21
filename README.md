@@ -22,7 +22,7 @@
   <img alt="wechat" src="https://img.shields.io/badge/微信小程序-f9f9f9?style=flat-square&logo=wechat">
   <br>
   <img alt="nodejs" src="https://img.shields.io/badge/Node-424242?style=flat-square&logo=node.js">
-  <img alt="php" src="https://img.shields.io/badge/PHP-7c88b7?style=flat-square&logo=php%logoColor=1f222e">
+  <img alt="php" src="https://img.shields.io/badge/PHP-7c88b7?style=flat-square&logo=php&logoColor=1f222e">
   <br>
   <img alt="webstorm" src="https://img.shields.io/badge/Webstorm-333333?style=flat-square&logo=webstorm&logoColor=148bd2">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-27272c?style=flat-square&logo=visual-studio-code&logoColor=179ff0">
