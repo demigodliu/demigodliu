@@ -1,5 +1,6 @@
 <article style="width: 100%; height: 100%; position: relative;">
-    学习 📚 的时候，并不会感到孤独 😔 ，因为此时此刻我知道 💋 ;    
+    
+学习 📚 的时候，并不会感到孤独 😔 ，因为此时此刻我知道 💋 ;    
 
 阿拉斯加的鳕鱼 🐟 正跃出了水面，太平洋彼岸的海鸥 🕊️ 振翅掠过了城市上空，白令海峡的夜空 🌃 散漫了五彩斑斓;  
 
@@ -19,8 +20,5 @@
 </p>
 
 <img src="https://github.com/demigodliu/demigodliu/blob/master/lf.jpeg" style="position: absolute; right: 0; bottom: 0" class="lufei" alt="lu fei">
+
 </article>
-
-<style>
-
-</style>
