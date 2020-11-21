@@ -12,5 +12,5 @@
   <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=flat-square&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
   <img alt="jquery" src="https://img.shields.io/badge/jQuery-3572a5?style=flat-square&logo=jQuery">
-  <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-4fc08d?style=flat-square&logo=vue.js">
+  <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-2e4053?style=flat-square&logo=vue.js">
 </p>
