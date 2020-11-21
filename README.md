@@ -12,6 +12,8 @@
   <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=flat-square&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
   <img alt="jquery" src="https://img.shields.io/badge/jQuery-3572a5?style=flat-square&logo=jQuery">
-  <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-24754f?style=flat-square&logo=vue.js">
+  <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
   <img alt="nodejs" src="https://img.shields.io/badge/Node-424242?style=flat-square&logo=node.js">
+  <br>
+  <img alt="php" src="https://img.shields.io/badge/PHP-333333?style=flat-square&logo=php">
 </p>
