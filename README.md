@@ -18,7 +18,7 @@
   <img alt="nodejs" src="https://img.shields.io/badge/Node-424242?style=flat-square&logo=node.js">
   <img alt="php" src="https://img.shields.io/badge/PHP-333333?style=flat-square&logo=php">
   <br>
-  <img alt="webstorm" src="https://img.shields.io/badge/Webstorm-f7f7f7?style=flat-square&logo=webstorm&logoColor=148bd2">
+  <img alt="webstorm" src="https://img.shields.io/badge/Webstorm-333333?style=flat-square&logo=webstorm&logoColor=148bd2">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-27272c?style=flat-square&logo=visual-studio-code&logoColor=179ff0">
   <img alt="sublime" src="https://img.shields.io/badge/Sublime-424242?style=flat-square&logo=sublime-text&logoColor=fe8b0c">
 </p>
