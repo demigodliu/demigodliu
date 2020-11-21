@@ -25,8 +25,5 @@
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-27272c?style=flat-square&logo=visual-studio-code&logoColor=179ff0">
   <img alt="sublime" src="https://img.shields.io/badge/Sublime-424242?style=flat-square&logo=sublime-text&logoColor=fe8b0c">
 </p>
-
-<img src="https://github.com/demigodliu/demigodliu/blob/master/lf.jpeg" style="position: absolute; right: 0; bottom: 0" class="lufei" alt="lu fei">
-
 </article>
-<img style="width: 100%" src="https://github.com/demigodliu/demigodliu/blob/master/1.png" alt="wave">
+<img style="width: 100%" src="https://github.com/demigodliu/demigodliu/blob/master/1.png" alt="shan">
