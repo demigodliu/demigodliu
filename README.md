@@ -26,4 +26,3 @@
   <img alt="sublime" src="https://img.shields.io/badge/Sublime-424242?style=flat-square&logo=sublime-text&logoColor=fe8b0c">
 </p>
 </article>
-<img style="width: 100%" src="https://github.com/demigodliu/demigodliu/blob/master/1.png" alt="shan">
