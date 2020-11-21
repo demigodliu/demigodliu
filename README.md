@@ -8,7 +8,7 @@
 
 那些我认为从来不会看到的景色 🏞️ ，终身不会遇到的人 🤝 ，正一步步向我走来 🤞 。  
 
-> 常用技术与开发环境
+> 常用技术
 
 <p style="display: inline-flex">
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
