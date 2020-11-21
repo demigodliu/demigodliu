@@ -16,7 +16,7 @@
   <img alt="stylus" src="https://img.shields.io/badge/Stylus-f5f5f5?style=flat-square&logo=stylus&logoColor=2d2d2d">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-276ebe?style=flat-square&logo=typescript">
-  <img alt="jquery" src="https://img.shields.io/badge/jQuery-3572a5?style=flat-square&logo=jQuery">
+  <img alt="jquery" src="https://img.shields.io/badge/jQuery-005fa3?style=flat-square&logo=jQuery&logoColor=6bc9f3">
   <img alt="vue.js" src="https://img.shields.io/badge/Vue.js-2c3e50?style=flat-square&logo=vue.js">
   <img alt="react.js" src="https://img.shields.io/badge/React.js-1d2025?style=flat-square&logo=react&logoColor=53dafa">
   <img alt="wechat" src="https://img.shields.io/badge/微信小程序-f5f5f5?style=flat-square&logo=wechat">
