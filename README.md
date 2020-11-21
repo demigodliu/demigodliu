@@ -14,7 +14,7 @@
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
   <img alt="jquery" src="https://img.shields.io/badge/jQuery-3572a5?style=flat-square&logo=jQuery">
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-2c3e50?style=flat-square&logo=vue.js">
-  <img alt="wechat" src="https://img.shields.io/badge/wechat-f6f6f6?style=flat-square&logo=wechat">
+  <img alt="wechat" src="https://img.shields.io/badge/微信小程序-f6f6f6?style=flat-square&logo=wechat">
   <br>
   <img alt="nodejs" src="https://img.shields.io/badge/Node-424242?style=flat-square&logo=node.js">
   <img alt="php" src="https://img.shields.io/badge/PHP-333333?style=flat-square&logo=php">
