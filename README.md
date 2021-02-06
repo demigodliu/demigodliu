@@ -6,4 +6,4 @@
 
 那些我认为从来不会看到的景色 🏞️ ，终身不会遇到的人 🤝 ，正一步步向我走来 🤞 。  
 
-<img src="https://github-readme-stats.vercel.app/api?username=demigodliu&show_icons=true&theme=radical&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=demigodliu&show_icons=true&theme=dracula&hide_title=true" />
