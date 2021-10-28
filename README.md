@@ -4,6 +4,6 @@
 
 总结成文的时候，白令海峡的夜空中散漫了五彩斑斓。
 
-但是少年，你别着急，在你为自己未来踏踏实实地努力时，那些你感觉从来不会看到的景色，那些你觉得终生不会遇到的人，正一步步向你走来。🤞 。  
+但是少年，你别着急，在你为自己未来踏踏实实地努力时，那些你感觉从来不会看到的景色，那些你觉得终生不会遇到的人，正一步步向你走来。
 
 <img src="https://github-readme-stats.vercel.app/api?username=demigodliu&show_icons=true&theme=dracula&hide_title=true" />
