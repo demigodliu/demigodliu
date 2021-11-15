@@ -68,7 +68,7 @@ I love Front End technologys. :heart:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=demigodliu&layout=compact)](https://github.com/demigodliu/github-readme-stats)
 
-![Demigodliu GitHub stats](https://github-readme-stats.vercel.app/api?username=demigodliu&show_icons=true&bg_color=30,92FFC0,002661&title_color=fff&text_color=fff)
+![Demigodliu GitHub stats](https://github-readme-stats.vercel.app/api?username=demigodliu&show_icons=true&bg_color=30,F0FF00,58CFFB&title_color=fff&text_color=fff)
 
 ![](https://github-profile-trophy.vercel.app/?username=demigodliu&theme=flat&column=7&margin-w=10)
 
