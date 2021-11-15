@@ -17,7 +17,7 @@
 <p>
 
 [![Website](https://img.shields.io/badge/personal%20website-demigodliu.com-f3f8f1?logo=html5&logoColor=white&labelColor=red)](https://demigodliu.com)
-[![Wechat Subscription Account](https://img.shields.io/badge/subscription%20account-%E5%BE%A1%E4%B8%89%E4%BA%94-1e80ff?logo=wechat&labelColor=f3f8f1)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQxNTgxNQ==&scene=124#wechat_redirect)
+[![Wechat Subscription Account](https://img.shields.io/badge/subscription%20account-%E5%BE%A1%E4%B8%89%E4%BA%94-1e80ff?logo=wechat&labelColor=f3f8f1)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2MjY2MTA5Mw==&scene=124#wechat_redirect)
 
 </p>
 
