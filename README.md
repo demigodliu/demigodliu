@@ -27,7 +27,7 @@
 
 Student of [@UESTC](https://github.com/uestcer). :school:
 
-Major in Software Engineering. :man_technologist:
+Major in Computer Science and Technology. :man_technologist:
 
 I love open source spirit. :heart:
 
@@ -64,24 +64,14 @@ I love Front End technologys. :heart:
 
 </p>
 
-## Projects :computer:
-
-[![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=config-router)](https://github.com/syy11cn/config-router)
-
-[![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=course-assistant-miniprogram-fe)](https://github.com/syy11cn/course-assistant-miniprogram-fe)
-
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=my-blog)](https://github.com/syy11cn/my-blog)
-
-[![Typecho Theme](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=18px-Typecho-Theme)](https://github.com/syy11cn/18px-Typecho-Theme)
-
 ## Analysis :point_down:
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=demigodliu&layout=compact)](https://github.com/demigodliu/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syy11cn&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Demigodliu GitHub stats](https://github-readme-stats.vercel.app/api?username=demigodliu&show_icons=true&bg_color=30,92FFC0,002661&title_color=fff&text_color=fff)
 
-![](https://github-profile-trophy.vercel.app/?username=syy11cn&theme=flat&column=7&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=demigodliu&theme=flat&column=7&margin-w=10)
 
 </div>
 
-![](https://hit.yhype.me/github/profile?user_id=57290456)
+![](https://hit.yhype.me/github/profile?user_id=30372735)
