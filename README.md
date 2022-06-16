@@ -1,7 +1,7 @@
 
 <div align=center>
 
-<img alt="Demigodliu" src="https://github.com/demigodliu/demigodliu/blob/master/assets/avatar.png" width=100 />
+<!-- <img alt="Demigodliu" src="https://github.com/demigodliu/demigodliu/blob/master/assets/avatar.png" width=100 /> -->
 
 # Hi, this is Demigodliu :wave:
 
