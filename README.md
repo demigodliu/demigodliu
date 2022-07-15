@@ -15,7 +15,7 @@
 
 ## Introduction :raised_hands:
 
-Student of [@UESTC](https://github.com/uestcer). :school:
+Student of [@UESTC](https://github.com/uestcer). :school: 
 
 Major in Computer Science and Technology. :man_technologist:
 
