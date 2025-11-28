@@ -7,7 +7,7 @@
 
 <p>
 
-[![leetcode](https://img.shields.io/badge/1637-1e80ff?color=f3a43f&labelColor=000000&label=leetcode%20fans&logo=leetcode)](https://leetcode-cn.com/u/demigodliu/)
+[![leetcode](https://img.shields.io/badge/1679-1e80ff?color=f3a43f&labelColor=000000&label=leetcode%20fans&logo=leetcode)](https://leetcode-cn.com/u/demigodliu/)
 ![123](https://komarev.com/ghpvc/?username=demigodliu)
   
 </p> 
@@ -52,3 +52,4 @@ I love Front End technologys. :heart:
 ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
 
 </p>
+
